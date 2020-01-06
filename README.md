@@ -9,3 +9,4 @@ I scraped 32,000+ cars with 150 specifications from thecarconnection.com and ran
 - The [picture scraper repo](https://github.com/nicolas-gervais/predicting-car-price-from-scraped-data/tree/master/picture-scraper) is here. 
 
 
+Other datasets: https://cloud.tencent.com/developer/news/336164
